@@ -19,10 +19,12 @@
 	
 3. Multi-processing
 	>Multi-processing refers to the use of multiple processor cores.
+	>
 	>An example of Multi-processing is: Intel i5 quad-core processor.
 
 4. Multi-threaded
 	>Multi-threaded splits a process into smaller threads that can all be run concurrently within the process context. The processor is able to interrupt threads to work on other threads.
+	>
 	>An example of Multi-threading is: having multiple threads to check the status of computers on a network, rather than checking each one sequentially.
 	
 -----------------

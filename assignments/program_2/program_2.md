@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+```python
 import threading
 import os
 from os import system
